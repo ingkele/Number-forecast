@@ -1,0 +1,10 @@
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\号码预测器.exe.config
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\号码预测器.exe
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\号码预测器.pdb
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.csprojAssemblyReference.cache
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.Form1.resources
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.Properties.Resources.resources
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.csproj.GenerateResource.cache
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.csproj.CoreCompileInputs.cache
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.exe
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.pdb
