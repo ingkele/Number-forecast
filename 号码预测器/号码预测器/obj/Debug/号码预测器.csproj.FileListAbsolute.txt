@@ -8,3 +8,11 @@ D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预
 D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.csproj.CoreCompileInputs.cache
 D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.exe
 D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.pdb
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\Newtonsoft.Json.dll
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\Newtonsoft.Json.xml
+D:\工具集\号码预测器\号码预测器\号码预测器\obj\Debug\号码预测器.csproj.CopyComplete
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\EntityFramework.dll
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\EntityFramework.SqlServer.dll
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\EntityFramework.xml
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\EntityFramework.SqlServer.xml
+D:\工具集\号码预测器\号码预测器\号码预测器\bin\Debug\zh-Hans\EntityFramework.resources.dll
